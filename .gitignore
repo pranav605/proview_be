@@ -1,0 +1,5 @@
+.env
+keys.txt
+db_schema.txt
+
+node_modules
